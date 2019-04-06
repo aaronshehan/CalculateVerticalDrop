@@ -5,14 +5,8 @@ using namespace std;
 int main()
 {
 
-/* Aaron Shehan  02/03/2018  CSCE 1030.001 
+/* Aaron Shehan
 This program will take user inputs for Initial Velocity and Final Velocity and use those inputs to output a value for Vertical Drop in meters and feet. */
-
-cout << "+----------------------------------------------+" << endl;
-cout << "|       Computer Science and Engineering       |" << endl;
-cout << "|        CSCE 1030 - Computer Science I        |" << endl;
-cout << "| Aaron Shehan ats0109 aaronshehan@my.unt.edu  |" << endl;
-cout << "+----------------------------------------------+" << endl;
 
 double const Gravity = 9.8; 		//Acceleration constant due to gravity
 double const Feet_conversion = 3.28; 	//For converting meters to feet
